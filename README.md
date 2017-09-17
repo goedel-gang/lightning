@@ -8,3 +8,5 @@ Here is an example of it in action:
 Here is a display of the "electron field":
 
 ![screenshot](https://github.com/elterminad0r/lightning/blob/master/screenshots/electrons.png)
+
+[Here](https://www.youtube.com/watch?v=o_IPt9EWTpg) is a short video of it in action.

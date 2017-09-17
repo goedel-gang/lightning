@@ -5,7 +5,7 @@ SPEED = 1
 
 def setup():
     global licht, p
-    size(800, 800)
+    size(1280, 720)
     background(0)
     licht = Lichtenberg(0, height / 2, SIZE)
     p = False
